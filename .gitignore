@@ -27,3 +27,6 @@ replay_pid*
 .kotlin/
 
 music
+playlist.m3u
+.gradle
+.idea
